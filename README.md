@@ -5,7 +5,7 @@
 :books: Machine learning, AI<br>
 :man_student: Freshman<br>
 :school: University of Information Technology VNU-HCM<br>
-:joystick: Games, Boardgames, Badminton, Anime, Manga/Light novel
+:joystick: Games, Boardgames, Badminton, Anime, Manga/Light novel<br>
 ![This is an image](https://i.imgur.com/IljUpci.gif)
 
 ## MAJOR IN

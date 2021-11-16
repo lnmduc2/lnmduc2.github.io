@@ -27,6 +27,11 @@
 
 ![This is an image](https://external-preview.redd.it/SYGK7KYbgsblLxzCti8bcC0ZFJ9NovE-Ny4OOBQO-8M.gif?s=05a42b35e83cfdc462c33349b92a46ce7c3d4491)<img align="right">
 
+## CONTACT ME
+:heavy_check_mark: [Facebook](https://www.facebook.com/WelcomeToLeWal/)
+:heavy_check_mark: Gmail: 21520195@gm.uit.edu.vn
+
+
 
 
 

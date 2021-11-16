@@ -6,6 +6,7 @@
 :man_student: Freshman
 :school: University of Information Technology VNU-HCM
 ![This is an image](https://i.imgur.com/IljUpci.gif)
+
 ## MAJOR IN
 
 

@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-:adult: Lê Ngô Minh Đức<br>
+:boy: Lê Ngô Minh Đức<br>
 :date: 4/11/2003<br>
 :books: Machine learning, AI<br>
 :man_student: Freshman<br>

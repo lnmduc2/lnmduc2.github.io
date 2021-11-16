@@ -1,4 +1,4 @@
-# INTRODUCTION
+
 ## ABOUT ME
 
 :boy: Lê Ngô Minh Đức<br>

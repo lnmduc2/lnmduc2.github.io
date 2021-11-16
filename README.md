@@ -1,10 +1,13 @@
 ## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/lnmduc2/lnmduc2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+:adult: Lê Ngô Minh Đức
+:date: 4/11/2003
+:books: Machine learning, AI
+:man_student: Freshman
+:school: University of Information Technology VNU-HCM
+![This is an image](https://i.imgur.com/IljUpci.gif)
+## MAJOR IN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

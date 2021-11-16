@@ -1,10 +1,10 @@
 ## ABOUT ME
 
-:adult: Lê Ngô Minh Đức
-:date: 4/11/2003
-:books: Machine learning, AI
-:man_student: Freshman
-:school: University of Information Technology VNU-HCM
+:adult: Lê Ngô Minh Đức<br>
+:date: 4/11/2003<br>
+:books: Machine learning, AI<br>
+:man_student: Freshman<br>
+:school: University of Information Technology VNU-HCM<br>
 ![This is an image](https://i.imgur.com/IljUpci.gif)
 
 ## MAJOR IN

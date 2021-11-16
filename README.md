@@ -5,37 +5,28 @@
 :books: Machine learning, AI<br>
 :man_student: Freshman<br>
 :school: University of Information Technology VNU-HCM<br>
+:joystick: Games, Boardgames, Badminton, Anime, Manga/Light novel
 ![This is an image](https://i.imgur.com/IljUpci.gif)
 
 ## MAJOR IN
 
+:heavy_check_mark: Python<br>
+:heavy_check_mark: C++<br>
+:heavy_check_mark: Mathematics<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## WHAT I'M UP TO
 
-```markdown
-Syntax highlighted code block
+✧ Currently studying basic Machine Learning algorithms in Scikit-learn<br>
+✧ Coding<br>
 
-# Header 1
-## Header 2
-### Header 3
+## WHAT I PLAN TO DO
 
-- Bulleted
-- List
+:dart: Improve my [Virtual Assistant](https://github.com/lnmduc2/stupidAI)<br>
+:dart: Face detection<br>
 
-1. Numbered
-2. List
+(https://external-preview.redd.it/SYGK7KYbgsblLxzCti8bcC0ZFJ9NovE-Ny4OOBQO-8M.gif?format=mp4&s=11c7eeae32fabb81a730fd3a68ecdd3663d84b93)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lnmduc2/lnmduc2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

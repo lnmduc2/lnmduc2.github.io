@@ -1,4 +1,4 @@
-## ABOUT ME
+## INTRODUCTION
 
 :boy: Lê Ngô Minh Đức<br>
 :date: 4/11/2003<br>
@@ -24,7 +24,7 @@
 :dart: Improve my [Virtual Assistant](https://github.com/lnmduc2/stupidAI)<br>
 :dart: Face detection<br>
 
-![This is an image](https://external-preview.redd.it/SYGK7KYbgsblLxzCti8bcC0ZFJ9NovE-Ny4OOBQO-8M.gif?s=05a42b35e83cfdc462c33349b92a46ce7c3d4491)
+![This is an image](https://external-preview.redd.it/SYGK7KYbgsblLxzCti8bcC0ZFJ9NovE-Ny4OOBQO-8M.gif?s=05a42b35e83cfdc462c33349b92a46ce7c3d4491)<img align="right">
 
 
 

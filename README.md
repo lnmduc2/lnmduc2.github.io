@@ -24,7 +24,7 @@
 :dart: Improve my [Virtual Assistant](https://github.com/lnmduc2/stupidAI)<br>
 :dart: Face detection<br>
 
-(https://external-preview.redd.it/SYGK7KYbgsblLxzCti8bcC0ZFJ9NovE-Ny4OOBQO-8M.gif?format=mp4&s=11c7eeae32fabb81a730fd3a68ecdd3663d84b93)
+![This is an image](https://external-preview.redd.it/SYGK7KYbgsblLxzCti8bcC0ZFJ9NovE-Ny4OOBQO-8M.gif?s=05a42b35e83cfdc462c33349b92a46ce7c3d4491)
 
 
 
